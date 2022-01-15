@@ -18,6 +18,7 @@ as neither are needed in production :)
 
 (* = my other side project -- carrd.co)
 (** = not included)
+(*** = not included)
 
 AJ
 aj@lkn.io | @ajlkn
@@ -26,7 +27,7 @@ tt
 taylor
 
 
-Credits:
+Credits //:
 
 	Demo Images:
 		Unsplash (unsplash.com)
