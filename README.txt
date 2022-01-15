@@ -21,18 +21,10 @@ as neither are needed in production :)
 (*** = not included)
 
 AJ
-aj@lkn.io | @ajlkn
+ok 24th line
 
-<<<<<<< HEAD
-tt
-taylor
-
-
-Credits //:
-=======
 Will is making a conflict on where Tory typed.
 Credits:
->>>>>>> 79d277f374d60838fe52bd3595bc7b897ec8b2c5
 
 	Demo Images:
 		Unsplash (unsplash.com)
