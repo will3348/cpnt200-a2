@@ -23,11 +23,16 @@ as neither are needed in production :)
 AJ
 aj@lkn.io | @ajlkn
 
+<<<<<<< HEAD
 tt
 taylor
 
 
 Credits //:
+=======
+Will is making a conflict on where Tory typed.
+Credits:
+>>>>>>> 79d277f374d60838fe52bd3595bc7b897ec8b2c5
 
 	Demo Images:
 		Unsplash (unsplash.com)
