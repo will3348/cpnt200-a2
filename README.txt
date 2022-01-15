@@ -22,7 +22,7 @@ as neither are needed in production :)
 AJ
 aj@lkn.io | @ajlkn
 
-
+Will is making a conflict on where Tory typed.
 Credits:
 
 	Demo Images:
