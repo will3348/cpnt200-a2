@@ -22,7 +22,11 @@ as neither are needed in production :)
 
 AJ
 aj@lkn.io | @ajlkn ##very slowly figuring this out
+<<<<<<< HEAD
 ~~~~~~~~///~/// /////420
+=======
+~~~~~~~~~@@@@@
+>>>>>>> aa5cd277997a76b79ada10bbe3914446fb0814fa
 tt
 taylor
 
